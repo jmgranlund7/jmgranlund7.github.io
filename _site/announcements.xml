@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>AzerothRoleSites</title>
+ <link href="http://localhost:4000/announcements.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-02-22T01:37:40-06:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Victor Johnson</name>
+   <email>me@essentialenemy.com</email>
+ </author>
+
+ 
+
+</feed>

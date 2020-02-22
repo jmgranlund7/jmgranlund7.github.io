@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>AzerothRoleSites</title>
+ <link href="http://localhost:4000/feed.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-02-22T01:37:40-06:00</updated>
+ <id>http://localhost:4000/</id>
+ <author>
+   <name>Victor Johnson</name>
+   <email>me@essentialenemy.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Stonewatch</title>
+   <link href="http://localhost:4000/stonewatch/"/>
+   <updated>2020-02-21T06:59:00-06:00</updated>
+   <id>http://localhost:4000/stonewatch</id>
+   <content type="html">&lt;figure&gt;
+  &lt;img src=&quot;/assets/Stonewatch.jpg&quot; /&gt;
+  &lt;figcaption&gt;As you can see this is a screen shot from world of warcraft that I captioned.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lakeshire</title>
+   <link href="http://localhost:4000/lakeshire/"/>
+   <updated>2020-02-21T06:59:00-06:00</updated>
+   <id>http://localhost:4000/lakeshire</id>
+   <content type="html">&lt;figure&gt;
+  &lt;img src=&quot;/assets/LackShire.jpg&quot; /&gt;
+  &lt;figcaption&gt;As you can see this is a screen shot from world of warcraft that I captioned.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+
+</feed>
